@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnTauzin
 - 👀 I’m interested in connecting Github to ClickUp
-- 🌱 I’m currently learning about all things
+- 🌱 I’m currently learning about all things Github ad ClickUp related
 - 💞️ I’m looking to collaborate on many things
 - 📫 You can reach me via JohnTauzin@hotmail.com
 
